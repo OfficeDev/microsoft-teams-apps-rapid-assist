@@ -32,15 +32,15 @@ Here are a few key features:
 
 The following images show examples of the user interface of the app:
 
-![End user home screen](https://github.com/OfficeDev/microsoft-teams-apps-rapid-assist/wiki/images/EndUserHome.png)
+![End user home screen](https://github.com/OfficeDev/microsoft-teams-apps-rapid-assist/wiki/Images/EndUserHome.png)
 
-![End user connect now](https://github.com/OfficeDev/microsoft-teams-apps-rapid-assist/wiki/images/EndUserJoinMeetingSuccess.png)
+![End user connect now](https://github.com/OfficeDev/microsoft-teams-apps-rapid-assist/wiki/Images/EndUserJoinMeetingSuccess.png)
 
 The following images show examples of the expert interface of the app:
 
-![Expert user home](https://github.com/OfficeDev/microsoft-teams-apps-rapid-assist/wiki/images/ExpertHome.png)
+![Expert user home](https://github.com/OfficeDev/microsoft-teams-apps-rapid-assist/wiki/Images/ExpertHome.png)
 
-![Expert user notification](https://github.com/OfficeDev/microsoft-teams-apps-rapid-assist/wiki/images/ExpertNotification.png)
+![Expert user notification](https://github.com/OfficeDev/microsoft-teams-apps-rapid-assist/wiki/Images/ExpertNotification.png)
 
 Build using Power Apps, Power Automate and SharePoint Online with deep integrations with Microsoft Teams. 
 While the app comes with several features, we hope it is easy for you to extend, enhance and adapt it for your needs since this is
